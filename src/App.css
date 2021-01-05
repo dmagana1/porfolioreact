@@ -1,0 +1,58 @@
+
+.navApp {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  border-bottom: 7px rgb(0, 0, 0) ;
+}
+.container-fluid {
+  text-align: center;
+}
+
+.row h3 {
+  position: absolute;
+  bottom: 20px;
+  width: 94%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  background: #1696a7;
+  border-bottom: 0;
+  }
+  /*Settings for Pictures*/
+  .row { 
+  float: center;
+  width: auto;
+  margin: 20px 0 25px;
+  
+  }
+
+#name {
+  font-size: 25px;
+}
+
+.container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(184, 174, 174);
+}
+
+
+
+.card-header {
+  text-align: center;
+}
+
+
+
+.aboutApp, .portfolioApp, .contactApp, html {
+  background-color: rgb(95, 123, 218);
+}
+
+.gitProfile {
+  
+}
