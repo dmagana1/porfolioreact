@@ -7,5 +7,5 @@
 
 # Pictures here are a few pictures of my React Portfolio
 
-![alt text](projectpictures/Burger1.JPG)
+![alt text](public/images/portfolioaboutme.PNG)
 
